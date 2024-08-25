@@ -1,0 +1,12 @@
+Variables conatin letters numbers or underscores
+should not start with a number
+spaces are not allowed 
+cannot be keywords like break, switch and try
+case sensitive
+short and descriptive 
+Assign the value to variable and print variable
+change the value to vaiable it prints the last updated value.(overrides)
+when you defining variable you dont have to declare type.
+input()-function
+Conditionals -true or false
+Operators
